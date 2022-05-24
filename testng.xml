@@ -3,7 +3,8 @@
 <suite thread-count="1" name="Suite">
   <test thread-count="1" name="Test">
     <classes>
-      <class name="testAPI.Automation.APITest"/>
+      <class name="testAPI.Automation.PositiveAPITest"/>
+	  <class name="testAPI.Automation.NegativeAPITest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

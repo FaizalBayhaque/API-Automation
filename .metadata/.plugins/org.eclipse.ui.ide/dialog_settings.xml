@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\User\API-Automation-REST-Assured2"/>
+			<item value="C:\Users\User\API-Automation-REST-Assured2\src"/>
 			<item value="C:\Users\User\API REST assured"/>
 			<item value="C:\Users\User\API-Automation-REST-Assured"/>
 		</list>
