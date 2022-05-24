@@ -2,7 +2,7 @@
 
 This repo is about my last project making API automation using REST Assured on eclipse IDE. API that I use for automation testing is from https://kolakproject.herokuapp.com. Feature that I test in this case is Registration, Login, and Adding count to one of product item. 
 
-# Test Scenario
+# Test Case
 
 Positive Test
 
